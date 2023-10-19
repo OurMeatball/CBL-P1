@@ -1,5 +1,5 @@
 # CBL-P1
-Here's the projects Merijn has been working on to learn unity and earlier godot.
+Here's the projects our Group has been working on to learn unity and earlier godot.
 
 Links:
 
